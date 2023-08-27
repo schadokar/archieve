@@ -1,0 +1,34 @@
+site_name: schadokar.dev archive
+
+copyright: Copyright &copy; 2020 - 2023 Shubham Chadokar
+
+theme:
+  name: material
+  icon:
+    logo: material/rocket-launch
+
+# plugins:
+#   - blog:
+#       blog_dir: .
+#       post_dir: blog/posts
+# archive_name: Archive
+# archive_url_format: "{date}"
+
+# nav:
+#   - index.md
+
+extra:
+  # homepage: https://example.com
+  social:
+    - icon: fontawesome/solid/rocket
+      link: https://schadokar.dev
+    - icon: fontawesome/brands/github
+      link: https://github.com/schadokar
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/schadokar1
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@schadokar
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/schadokar
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:hello@schadokar.dev
